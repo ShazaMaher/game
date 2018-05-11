@@ -1,0 +1,13 @@
+.custab {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 0;
+}
+
+.card-body {
+    padding: 1px;
+}
+
+#winner{
+    display: none;
+}
